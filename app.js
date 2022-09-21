@@ -44,10 +44,10 @@ const app = {
 			path: "./assets/music/love_faded_leony.mp3",
 		},
 		{
-			name: "When night falls",
-			author: "Eddi Kim",
-			image: "./assets/img/Suzy2.jpg",
-			path: "./assets/music/When_night_falls_Eddi_Kim.mp3",
+			name: "Bất Bình Thường",
+			author: "WHEE!",
+			image: "./assets/img/images.jfif",
+			path: "./assets/music/bat_binh_thuong.mp3",
 		},
 	],
 
