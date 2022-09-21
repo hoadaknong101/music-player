@@ -78,7 +78,43 @@ const app = {
 			author: "DaDuc x Kiper",
 			image: "./assets/img/hun.gn_1.png",
 			path: "./assets/music/precious_daduc_ft_kiper_t_cukak_remix_official_lyrics_video_-7386399315721234926.mp3",
-		}
+		},
+		{
+			name: "Melody",
+			author: "Ziv x Kipes",
+			image: "https://i.ytimg.com/vi/XT-sPeuenyE/maxresdefault.jpg",
+			path: "https://cdn.glitch.global/d4fabaee-311a-4959-830b-206e627b684e/vietsub_melody_ziv_kipes_-6035725810216122539.mp3?v=1663745572520",
+		},
+		{
+			name: "Yêu Em Qua Dòng Tin Nhắn",
+			author: "Nger x Hngan",
+			image: "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/4/9/0/7/490702cd8724942cfb1290768163d530.jpg",
+			path: "https://cdn.glitch.global/d4fabaee-311a-4959-830b-206e627b684e/yeu_em_qua_dong_tin_nhan_ieu_iem_qua_dong_tin_nhan_ngo_ft_nan_lyrics_video_950071120526878069.mp3?v=1663745687462",
+		},
+		{
+			name: "Em Thích - Lofi",
+			author: "Sean x Lua",
+			image: "https://lyricvn.com/wp-content/uploads/2021/12/7e592379f3f1c0ae65807133605ee5bf.jpg",
+			path: "https://cdn.glitch.global/d4fabaee-311a-4959-830b-206e627b684e/em_thich_lofi_ver_sean_x_lua_x_freak_d_-8634849872992836799.mp3?v=1663745850926",
+		},
+		{
+			name: "Nếu Anh Khum Phiền",
+			author: "Kaity Nguyễn",
+			image: "./assets/img/my_luv.jpg",
+			path: "https://cdn.glitch.global/d4fabaee-311a-4959-830b-206e627b684e/neu_anh_khong_phien_kaity_nguyen_x_soho_speed_up_-8204844179314786636.mp3?v=1663745856959",
+		},
+		{
+			name: "Yours",
+			author: "Chanyeol x Lee Hi",
+			image: "./assets/img/meo_meo.jpg",
+			path: "https://cdn.glitch.global/d4fabaee-311a-4959-830b-206e627b684e/chanyeol_ft_lee_hi_yours_speed_up_nihtcore_-6515365115094543279.mp3?v=1663745618865",
+		},
+		{
+			name: "Say Yes",
+			author: "LOCO x Punch",
+			image: "./assets/img/meomeomeo.jpg",
+			path: "https://cdn.glitch.global/d4fabaee-311a-4959-830b-206e627b684e/vietsub_lyrics_say_yes_loco_punch_speed_up_nhac_hot_remix_tiktok_166807903743438515.mp3?v=1663745637450",
+		},
 	],
 
 	renderSong() {
