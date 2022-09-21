@@ -53,7 +53,7 @@ const app = {
 			name: "Từ Chối Anh Nhẹ Nhàng Thôi",
 			author: "Bích Phương x Phúc Du",
 			image: "https://otc-restaurants.com/wp-content/uploads/2021/12/4-bich-phuong-sinh-nam-bao-nhieu.jpg",
-			path: "./assets/music/tu_choi_anh_nhe_nhang_thoi.mp3",
+			path: "./assets/music/phuc_du_feat_bich_phuong_tu_choi_nhe_nhang_thoi_official_m_v_6819276646062757250.mp3",
 		},
 		{
 			name: "Anh Biết Em Cũng Biết",
@@ -72,6 +72,12 @@ const app = {
 			author: "Fishy x Tri Dung",
 			image: "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/4/b/1/6/4b1620e9ea2484a239b30e6536844181.jpg",
 			path: "./assets/music/fishy_tri_dung_forget_me_now.mp3",
+		},
+		{
+			name: "Precious",
+			author: "DaDuc x Kiper",
+			image: "./assets/img/hun.gn_1.png",
+			path: "./assets/music/precious_daduc_ft_kiper_t_cukak_remix_official_lyrics_video_-7386399315721234926.mp3",
 		},
 	],
 
