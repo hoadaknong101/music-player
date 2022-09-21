@@ -49,6 +49,12 @@ const app = {
 			image: "./assets/img/images.jfif",
 			path: "./assets/music/bat_binh_thuong.mp3",
 		},
+		{
+			name: "Từ Chối Anh Nhẹ Nhàng Thôi",
+			author: "Bích Phương x Phúc Du",
+			image: "https://otc-restaurants.com/wp-content/uploads/2021/12/4-bich-phuong-sinh-nam-bao-nhieu.jpg",
+			path: "./assets/music/tu_choi_anh_nhe_nhang_thoi.mp3",
+		},
 	],
 
 	renderSong() {
