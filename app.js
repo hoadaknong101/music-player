@@ -55,6 +55,24 @@ const app = {
 			image: "https://otc-restaurants.com/wp-content/uploads/2021/12/4-bich-phuong-sinh-nam-bao-nhieu.jpg",
 			path: "./assets/music/tu_choi_anh_nhe_nhang_thoi.mp3",
 		},
+		{
+			name: "Anh Biết Em Cũng Biết",
+			author: "Nger x Hngan",
+			image: "https://static2.yan.vn/YanNews/2167221/202201/hnhngan-la-ai-thong-tin-tieu-su-cua-hanh-ngan-5c86b192.jpeg",
+			path: "./assets/music/anh_biet_em_cung_biet_ngo_ngan.mp3",
+		},
+		{
+			name: "Lý Do Anh Bỏ Em Vào Balo",
+			author: "Tân Trần",
+			image: "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/2/d/1/92d1087e7b366b4cf7d1539d37e5f610.jpg",
+			path: "./assets/music/ly_do_anh_bo_em_vao_balo.mp3",
+		},
+		{
+			name: "Forget Me Now",
+			author: "Fishy x Tri Dung",
+			image: "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/4/b/1/6/4b1620e9ea2484a239b30e6536844181.jpg",
+			path: "./assets/music/fishy_tri_dung_forget_me_now.mp3",
+		},
 	],
 
 	renderSong() {
