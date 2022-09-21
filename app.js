@@ -79,6 +79,12 @@ const app = {
 			image: "./assets/img/hun.gn_1.png",
 			path: "./assets/music/precious_daduc_ft_kiper_t_cukak_remix_official_lyrics_video_-7386399315721234926.mp3",
 		},
+		{
+			name: "Precious",
+			author: "DaDuc x Kiper",
+			image: "./assets/img/hun.gn_1.png",
+			path: "./assets/music/precious_daduc_ft_kiper_t_cukak_remix_official_lyrics_video_-7386399315721234926.mp3",
+		},
 	],
 
 	renderSong() {
